@@ -3,6 +3,10 @@
     max-width: 90%;
 }
 
+.service-box {
+  min-height: 190px;
+}
+
 .port-img {
     max-height: 282px;
     margin: auto;
